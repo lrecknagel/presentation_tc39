@@ -213,7 +213,8 @@ Stage 3;
 ## Maybe useful links
 
 * [TC39](https://tc39.github.io/beta/)
-*
+* [KANGAX](http://kangax.github.io/compat-table/esnext/)
+* [node.green](node.green)
 
 ---
 
