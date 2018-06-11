@@ -1,0 +1,13 @@
+#
+# GitPitch Slideshow Custom Settings
+#
+# For details, visit Wiki:
+# https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
+#
+theme : beige
+theme-override : assets/css/PITCHME.css
+highlight : hybrid
+logo : assets/image/tc39.png
+transition : slide
+published : true
+footnote : "Lucas Recknagel | 14.06.2018 | Twitter - @lucasrecknagel"
