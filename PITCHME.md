@@ -109,6 +109,11 @@ rocket for championing, min 18 month
 
 ---
 
+# Proposals
+### Stage 1
+
+---
+
 ## The Pipeline Operator `|>`
 
 Stage 1
@@ -159,9 +164,21 @@ Stage 1;
 ---
 
 ## https://github.com/tc39/proposal-observable
+(umfangreich)
+Note:
+Stage 1;
+
+---
+
+## https://github.com/tc39/proposal-optional-chaining
 
 Note:
 Stage 1;
+
+---
+
+# Proposals
+### Stage 2
 
 ---
 
@@ -179,16 +196,14 @@ Stage 2;
 
 ---
 
-=> smoosh and smooshMap meme
-
-## https://github.com/tc39/proposal-flatMap
-
-Note:
-Stage 3;
+# Proposals
+### Stage 3
 
 ---
 
-## https://github.com/tc39/proposal-private-methods
+=> smoosh and smooshMap meme
+
+## https://github.com/tc39/proposal-flatMap
 
 Note:
 Stage 3;
@@ -206,6 +221,11 @@ Stage 3;
 ---
 
 # Enough Future - back to the now
+
+---?image=assets/image/hire.png
+
+---
+
 ### Thanks for listening
 
 ---
@@ -222,7 +242,7 @@ Stage 3;
 
 * [The web](https://google.com)
 * [ECMA](https://www.ecma-international.org/)
-* [TC30](https://github.com/tc39)
+* [TC39](https://github.com/tc39)
 * [Pipeline Image](https://www.plastics.gl/construction/mega-wastewater-treatment-plant/)
 * [Pipeline Operator](https://github.com/tc39/proposal-pipeline-operator)
 
