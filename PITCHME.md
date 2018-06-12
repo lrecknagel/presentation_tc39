@@ -205,10 +205,15 @@ Stage 1;
 
 ---
 
-## https://github.com/tc39/proposal-throw-expressions
+## `throw` expressions
 
-Note:
-Stage 2;
+* exceptions from expression context
+* [👉](https://github.com/tc39/proposal-throw-expressions) `...` details
+
+---?code=src/throw.js&lang=js&title=throw expressions
+
+@[1-3](default parameter)
+@[5-7](conditional)
 
 ---
 
