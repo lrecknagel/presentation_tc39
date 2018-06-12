@@ -1,7 +1,7 @@
 const wombat = { age: 5 };
 
-const double = ...
-const add = ...
+const double = num => num * 2;
+const add = (val, base) => base + val;
 
 const someAgeCalcs = add(2, double(wombat.age));
 

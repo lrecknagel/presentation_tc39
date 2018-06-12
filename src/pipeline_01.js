@@ -11,7 +11,7 @@ const result = exclaim(
 // VS
 
 const result = "ddjs"
-  |> doubleSay
+  |> isNice
   |> capitalize
   |> exclaim;
 
