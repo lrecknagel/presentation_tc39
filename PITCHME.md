@@ -48,8 +48,6 @@ European Computer Manufacturers Association => no longer (´94)
 
 ## ECMA-262
 
-### TODO SPLIT IN separate foils with images for version features
-
 - v1 initial version
 - v2 editorial changes
 - v3 REGEX 🤯
@@ -75,7 +73,7 @@ So what is relation ECMA 262 to TC39
 
 ---
 
-## TC39 (https://tc39.github.io/beta/)
+## TC39 [👉](https://tc39.github.io/beta/)
 
 - consists of:
  - agendas
@@ -116,12 +114,17 @@ rocket for championing, min 18 month
 
 ## The Pipeline Operator `|>`
 
-Stage 1
-syntax sugar for function composition
-works with await
-simple: https://github.com/tc39/proposal-pipeline-operator
-smart: https://github.com/js-choi/proposal-smart-pipelines
-f#: https://github.com/valtech-nyc/proposal-fsharp-pipelines/blob/master/README.md
+* function composition sugar 🍭
+* consists of:
+  * [👉](https://github.com/tc39/proposal-pipeline-operator) simple proposal
+  * [👉](https://github.com/js-choi/proposal-smart-pipelines) smart proposal
+  * [👉](https://github.com/valtech-nyc/proposal-fsharp-pipelines/blob/master/README.md) f# proposal
+
+Note:
+Firefox implements it, compile flag
+simple: Stage-1, basics
+smart: Stage-0, await, statement blocks, pipeline fns
+f#: like simple
 
 ---
 
@@ -129,16 +132,23 @@ f#: https://github.com/valtech-nyc/proposal-fsharp-pipelines/blob/master/README.
 
 ![pipeline](assets/image/proposals/pipeline.jpg)
 
+Note:
+its not like that ...
+
 ---?code=src/pipeline_01.js&lang=js&title=Pipeline
 
-@[1-3](TODO)
+@[1-3](basic fns)
+@[5-9](current usage)
+@[10-18](pipe it!)
 
 Note:
 How many of you heard of it
 
 ---?code=src/pipeline_02.js&lang=js&title=Pipeline
 
-@[1-3](TODO)
+@[1-4](basic obj + fns)
+@[6](current usage)
+@[8-14](pipe it!)
 
 ---
 
