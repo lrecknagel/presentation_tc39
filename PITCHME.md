@@ -185,9 +185,6 @@ Stage 1;
 * deep property extraction sugar 🍭
 * [👉](https://github.com/tc39/proposal-optional-chaining) `...` details
 
-Note:
-Stage 1;
-
 ---?code=src/ochain_01.js&lang=js&title=OptionalChaining
 
 @[1-4](simple map)
@@ -227,12 +224,27 @@ Stage 2;
 
 ---
 
-=> smoosh and smooshMap meme
+![smoosh](assets/image/proposals/smoosh.jpg)
 
-## https://github.com/tc39/proposal-flatMap
+---
 
-Note:
-Stage 3;
+# `[].flat(), [].flatMap()`
+
+* reducing sugar 🍭
+* [👉](https://github.com/tc39/proposal-flatMap) `...` details
+
+---?code=src/flat.js&lang=js&title=ArrayFlat
+
+@[1-3](flat)
+@[4-6](flatMap)
+
+---
+
+![more](assets/image/proposals/more.jpeg)
+
+---
+
+# [👉](https://github.com/tc39/proposals) all proposals
 
 ---
 
