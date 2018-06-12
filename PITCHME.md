@@ -180,10 +180,26 @@ Stage 1;
 
 ---
 
-## https://github.com/tc39/proposal-optional-chaining
+## Optional Chaining `?.`
+
+* deep property extraction sugar 🍭
+* [👉](https://github.com/tc39/proposal-optional-chaining) `...` details
 
 Note:
 Stage 1;
+
+---?code=src/ochain_01.js&lang=js&title=OptionalChaining
+
+@[1-4](simple map)
+@[6-7](current usage)
+@[9-12](simple extraction)
+
+---?code=src/ochain_02.js&lang=js&title=OptionalChaining
+
+---?code=src/ochain_03.js&lang=js&title=OptionalChaining
+
+@[8-9](result)
+@[11-16](stacking)
 
 ---
 
