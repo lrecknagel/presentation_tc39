@@ -152,32 +152,20 @@ How many of you heard of it
 
 ---
 
-## https://github.com/tc39/proposal-partial-application
+## Partial application
 
-Note:
-Stage 1;
-
----
-
-## https://github.com/tc39/proposal-pattern-matching
-
-Note:
-Stage 1;
+* TODO
+* [👉](https://github.com/tc39/proposal-partial-application) `...` details
 
 ---
 
-## https://github.com/tc39/proposal-collection-methods
+## Pattern matching
 
-Note:
-Stage 1;
+* `switch / case with destructuring`
+* works like eg. `Rust´s / Scalas match`
+* [👉](https://github.com/tc39/proposal-pattern-matching) `...` details
 
----
-
-## https://github.com/tc39/proposal-observable
-(umfangreich)
-
-Note:
-Stage 1;
+---?code=src/match.js&lang=js&title=PatternMatching
 
 ---
 
@@ -305,6 +293,7 @@ newest stack, mostly free choosable working time
 * [ECMA](https://www.ecma-international.org/)
 * [TC39](https://github.com/tc39)
 * [Pipeline Image](https://www.plastics.gl/construction/mega-wastewater-treatment-plant/)
-* [Pipeline Operator](https://github.com/tc39/proposal-pipeline-operator)
+* [Memes](https://google.com/...)
+* [Proposal Pages](https://github.com/tc39/proposals)
 
 ---
