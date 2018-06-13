@@ -222,15 +222,19 @@ Stage 1;
 * 🍭 Sugar for concepts like:
   * Higher order functions
   * functional composition
-* => `decorating one object with functionality of another`
+* `decorating` one object with functionality of another
 * [👉](https://github.com/tc39/proposal-decorators) `...` details
 
----?code=src/decorator_01.js&lang=js&title=Decorators
+---?code=src/decorators_01.js&lang=js&title=Decorators
 
-@[1-3](default parameter)
-@[5-7](conditional)
+@[4-5](readonly)
+@[7-10](logging)
 
----
+---?code=src/decorators_02.js&lang=js&title=Decorators
+
+---?code=src/decorators_03.js&lang=js&title=Decorators
+
+---?code=src/decorators_04.js&lang=js&title=Decorators
 
 # Proposals
 ### Stage 3
@@ -286,6 +290,7 @@ Stage 1;
 * [TC39](https://tc39.github.io/beta/)
 * [KANGAX](http://kangax.github.io/compat-table/esnext/)
 * [node.green](node.green)
+* [DecoratorsDeep](https://www.sitepoint.com/javascript-decorators-what-they-are/)
 
 ---
 
