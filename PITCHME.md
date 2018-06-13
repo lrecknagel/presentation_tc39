@@ -1,4 +1,4 @@
-# import * from "future“;
+# import * from "future"
 
 ---
 
@@ -217,10 +217,18 @@ Stage 1;
 
 ---
 
-## https://github.com/tc39/proposal-decorators
+## `@decorators`
 
-Note:
-Stage 2;
+* 🍭 Sugar for concepts like:
+  * Higher order functions
+  * functional composition
+* => `decorating one object with functionality of another`
+* [👉](https://github.com/tc39/proposal-decorators) `...` details
+
+---?code=src/decorator_01.js&lang=js&title=Decorators
+
+@[1-3](default parameter)
+@[5-7](conditional)
 
 ---
 
