@@ -175,6 +175,7 @@ Stage 1;
 
 ## https://github.com/tc39/proposal-observable
 (umfangreich)
+
 Note:
 Stage 1;
 
@@ -245,7 +246,7 @@ Stage 1;
 
 ---
 
-# `[].flat(), [].flatMap()`
+## `[].flat(), [].flatMap()`
 
 * reducing sugar 🍭
 * [👉](https://github.com/tc39/proposal-flatMap) `...` details
@@ -278,6 +279,10 @@ Stage 1;
 # Enough Future - back to the now
 
 ---?image=assets/image/hire.png
+
+Note:
+no legacy, no cross browser
+newest stack, mostly free choosable working time
 
 ---
 
