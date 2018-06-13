@@ -2,7 +2,7 @@
 
 ---
 
-## Hello
+### `console.log('Hello')`
 
 Lucas Recknagel
 ![lucas_recknagel_img](assets/image/me.jpg "Lucas Recknagel")
