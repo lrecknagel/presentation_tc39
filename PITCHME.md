@@ -15,10 +15,9 @@ Backend Developer
 
 ## Todays topics
 
-* ECMA International?!
-* TC39 Overview
+* ECMA International ?!
+* TC39 ?!
 * Proposals
-* Future of the future
 
 ---
 
@@ -156,6 +155,7 @@ How many of you heard of it
 
 * assign partial amount of arguments
 * mainly returning a function again
+* subject of change [👉](https://github.com/tc39/proposal-partial-application/pull/22)
 * [👉](https://github.com/tc39/proposal-partial-application) `...` details
 
 ---
@@ -163,12 +163,12 @@ How many of you heard of it
 ## Partial application
 
 ```js
-f(x, ?)           // partial application from left
-f(x, ...)         // partial application from left with rest
-f(?, x)           // partial application from right
-f(..., x)         // partial application from right with rest
-f(?, x, ?)        // partial application for any arg
-f(..., x, ...)    // partial application for any arg with rest
+f(x, ?)           // from left
+f(x, ...)         // from left with rest
+f(?, x)           // from right
+f(..., x)         // from right with rest
+f(?, x, ?)        // for any arg
+f(..., x, ...)    // for any arg with rest
 ```
 
 ---?code=src/partial_01.js&lang=js&title=PartialApplication
@@ -179,8 +179,8 @@ f(..., x, ...)    // partial application for any arg with rest
 
 ## Pattern matching
 
-* `switch / case with destructuring`
-* works like eg. `Rust´s / Scalas match`
+* `switch / case` with destructuring
+* works like _Rust´s / Scalas_ match
 * [👉](https://github.com/tc39/proposal-pattern-matching) `...` details
 
 ---?code=src/match.js&lang=js&title=PatternMatching
