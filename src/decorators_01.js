@@ -8,6 +8,4 @@ class Meetup {
   getTime() {
     return this.time;
   };
-
-  members = 20;
 };

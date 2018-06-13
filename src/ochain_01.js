@@ -8,5 +8,5 @@ const rubyMetupDay = meetups.ruby && meetups.ruby.day;
 
 // VS
 
-const rubyMetupDay = meetups?.ruby;
+const rubyMetupDay = meetups?.ruby.day;
 // undefined

@@ -154,8 +154,26 @@ How many of you heard of it
 
 ## Partial application
 
-* TODO
+* assign partial amount of arguments
+* mainly returning a function again
 * [👉](https://github.com/tc39/proposal-partial-application) `...` details
+
+---
+
+## Partial application
+
+```js
+f(x, ?)           // partial application from left
+f(x, ...)         // partial application from left with rest
+f(?, x)           // partial application from right
+f(..., x)         // partial application from right with rest
+f(?, x, ?)        // partial application for any arg
+f(..., x, ...)    // partial application for any arg with rest
+```
+
+---?code=src/partial_01.js&lang=js&title=PartialApplication
+
+---?code=src/partial_02.js&lang=js&title=PartialApplication
 
 ---
 
