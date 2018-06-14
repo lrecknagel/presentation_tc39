@@ -15,8 +15,8 @@ Backend Developer
 
 ## Todays topics
 
-* ECMA International ?!
-* TC39 ?!
+* ECMA International
+* TC39
 * Proposals
 
 ---
@@ -111,6 +111,15 @@ rocket for championing, min 18 month
 
 ---
 
+## The Pipeline Operator
+
+![pipeline](assets/image/proposals/pipeline.jpg)
+
+Note:
+its not like that ...
+
+---
+
 ## The Pipeline Operator `|>`
 
 * function composition sugar 🍭
@@ -124,15 +133,6 @@ Firefox implements it, compile flag
 simple: Stage-1, basics
 smart: Stage-0, await, statement blocks, pipeline fns
 f#: like simple
-
----
-
-## The Pipeline Operator `|>`
-
-![pipeline](assets/image/proposals/pipeline.jpg)
-
-Note:
-its not like that ...
 
 ---?code=src/pipeline_01.js&lang=js&title=Pipeline
 
@@ -242,6 +242,8 @@ f(..., x, ...)    // for any arg with rest
 ---?code=src/decorators_03.js&lang=js&title=Decorators
 
 ---?code=src/decorators_04.js&lang=js&title=Decorators
+
+---
 
 # Proposals
 ### Stage 3
